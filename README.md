@@ -74,6 +74,8 @@
 <kbd>[<img title="پښتو" alt="پښتو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/af.svg" width="22">](translations/README.ps.md)</kbd>
 <kbd>[<img title="Af-soomaali" alt="Somalia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/so.svg" width="22">](translations/README.so.md)</kbd>
 <kbd>[<img title="Español de Ecuador" alt="Ecuador" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ec.svg" width="22">](translations/README.ec.md)</kbd>
+<kbd>[<img title="Spanish" alt="Spanish" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/200px-Flag_of_Spain.svg.png" width="22">](translations/README.ec.md)</kbd>
+
 
 # First Contributions
 
