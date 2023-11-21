@@ -6,9 +6,11 @@
   "author": "Keerat <baggakeerat12@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "yarn start",
-    "build": "babel src -d lib",
-    "test": "jest"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "react-scripts start"
   }
   
 }
